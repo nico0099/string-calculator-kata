@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TDD_Kata:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TDD_Kata_jar</output-path>
-    <root id="archive" name="TDD_Kata.jar">
-      <element id="module-output" name="TDD_Kata" />
-    </root>
-  </artifact>
-</component>
